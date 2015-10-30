@@ -1,0 +1,12 @@
+127.0.0.1	localhost
+127.0.1.1	tea-HP-ProDesk-400-G2-SFF
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+PCB-63
+172.22.111.63 	PCB-63
+127.0.0.1 facebook.com login.facebook.com secure.facebook.com latest.facebook.com inyour.facebook.com beta.facebook.com static.facebook.com touch.facebook.com developers.facebook.com newsroom.fb.com pixel.facebook.com apps.facebook.com graph.facebook.com m.facebook.com upload.facebook.com
